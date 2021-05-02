@@ -1,0 +1,53 @@
+body {
+  background: linear-gradient(160deg, #22c3c3bb 0%, #fdbb2db0 100%);
+}
+
+.Contacto {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.Contacto h1 {
+  font-family: "MuseoModerno";
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+
+.Contacto input {
+  margin-bottom: 23px;
+  border: none;
+  border-radius: 0;
+  box-shadow: none !important;
+  border-bottom: 1px solid #313848;
+  margin-right: 10px;
+}
+
+.Contacto textarea {
+  margin-bottom: 13px;
+  border: none;
+  border-bottom: 1px solid #313848;
+  box-shadow: none !important;
+  min-height: 150px;
+  max-height: 150px;
+  width: 100%;
+  resize: vertical;
+}
+
+.Contacto a {
+  color: rgb(0, 0, 0);
+  font-family: "Montserrat";
+  font-size: 20px;
+  padding: 4px 15px;
+  text-align: center;
+  background: linear-gradient(160deg, #22c3c3bb 0%, #fdbb2db0 100%);
+  text-decoration: none;
+  border-radius: 10px 2px;
+}
+
+.Contacto a:hover {
+  background: linear-gradient(160deg, #22c3c3f6 0%, #fdbb2df1 100%);
+}
+.form-control {
+  background: linear-gradient(160deg, #26b9c974 0%, #fdbb2d13 100%);
+}
+
